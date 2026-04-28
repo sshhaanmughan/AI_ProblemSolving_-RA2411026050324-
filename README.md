@@ -1,5 +1,5 @@
 # AI_ProblemSolving_-RA24110260502324
-## Name : Sundhares S
+## Name : Shanmugapriyan P
 ## Reg NO : RA2411026050324
 AI Problem Solving Assignment
 # Smart Navigation System (BFS & DFS)
